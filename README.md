@@ -102,6 +102,3 @@ MBA — AI & Data Analytics (SAS)| SVYASA University, Bengaluru
 
 **Supervised by**
 **Aishwarya Mishra** — AI Researcher
-
-**Supervised by**
-**Aishwarya Mishra** — AI Researcher
